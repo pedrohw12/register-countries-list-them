@@ -1,0 +1,5 @@
+1 - Cadastrar um pais (codigo do pais, nome) [OK]
+2 - Salvar no AsyncStorage [OK]
+3 - Validar os campos [OK]
+4 - Listar os dados cadastrados em touchableOpacity [OK] 
+5 - Excluir os dados cadastrados [OK]
